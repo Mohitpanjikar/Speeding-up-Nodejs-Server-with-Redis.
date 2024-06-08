@@ -50,23 +50,23 @@ Follow these steps to set up and run the Redis application:
 Here are some screenshots of the application:
 
 1. Redis GUI:
-   ![Redis GUI](redis_gui.png)
+   ![Redis GUI](https://raw.githubusercontent.com/Mohitpanjikar/Speeding-up-Nodejs-Server-with-Redis./main/redis%20gui.png)
 
-2. Postman Collection:
-   ![Postman Collection](postman_collection.png)
+2. Postman Collection before data being cached:
+   ![Postman Collection](https://github.com/Mohitpanjikar/Speeding-up-Nodejs-Server-with-Redis./blob/main/before.png)
 
-3. CLI Interface:
-   ![CLI Interface](cli_interface.png)
+3. Postman Collection after data being cached in redis server:
+   ![Postman Collection](https://github.com/Mohitpanjikar/Speeding-up-Nodejs-Server-with-Redis./blob/main/after%20being%20cache.png)
 
-## Reference
 
-This repository is inspired by the tutorial [Speeding up your NodeJS Server with Redis - Tutorial](https://youtu.be/Vx2zPMPvmug) 
+4. Data in redis gui - 
+   ![Data in redis gui](https://github.com/Mohitpanjikar/Speeding-up-Nodejs-Server-with-Redis./blob/main/redis%20cache.png)
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests if you have any suggestions or improvements for this repository.
 
-## License
+
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it according to your needs.
 
